@@ -69,3 +69,23 @@ MathML 用于在 Web 上显示复杂的数学符号。（MathML lets you display
 #### Web 组件（Web Components）
 
 Web 组件是在 Web 应用中定义和复用的自定义元素。（Web Components are custom elements that you can define and reuse in your Web apps.）
+
+#### WebDriver（WebDriver）
+
+WebDriver 是一种通过模拟真实用户行为进行远程控制的浏览器自动化机制。广泛用于 Web 应用的跨浏览器测试。（WebDriver is a browser-automation mechanism for remotely controlling a browser by emulating the actions of a real person using the browser. it's widely used for cross-browser testing of Web apps.）
+
+#### Web 扩展（Web Extensions）
+
+Web 扩展用来向用户提供额外的能力——例如拦截广告和其它内容、自定义页面外观等等。（Web Extensions are a way for you to give users enhanced capabilities in their browsers - for doing things such as blocking ads and other content, customizing the appearance of pages, and more.）
+
+#### Web 应用清单（Web App Manifests）
+
+Web 应用清单用来让用户将 Web 应用安装到设备的主屏，并且能预设横竖屏模式以及显示模式（例如：全屏）。（Web App Manifests let you enable users to install Web apps to their device home screens, with aspects such as portrait/landscape screen orientation and display mode(e.g., full screen) pre-set.）
+
+#### 渐进式 Web 应用（Progressive Web Apps (PWAs)）
+
+渐进式 Web 应用给用户提供类似于原生手机应用的体验。（Progressive Web Apps provide a user experience similar to native mobile apps.）
+
+#### 词汇表（Glossary）
+
+Web 相关的术语的定义。（Definitions of Web-related terms.）
