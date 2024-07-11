@@ -48,4 +48,24 @@ WebAssembly 允许在 Web 上运行用 C、C++、Rust、Swift、C#、Go 以及�
 
 #### 事件（Events）
 
-事件是 Web 应用中的响应部分；例如，当 Web 页面完成加载，用户完成选择，按下键盘，调整窗口大小，提交表单，或者暂停视频。
+事件是 Web 应用中的响应部分；例如，当 Web 页面完成加载，或用户完成选择、按下键盘、调整窗口大小、提交表单、或者暂停视频。（Events are what you build Web apps to react to; for example, when a Web page finished loading, or a user selects something, presses a key, resize a window, submits a form, or pauses a video.）
+
+#### HTTP（HTTP）
+
+HTTP 是基础互联网协议，用来在 Web 上获取文档、样式表、脚本、图片、视频、字体、和其它资源，以及用来给 Web 服务器发送数据。（HTTP is the fundamental Internet protocol for fetching documents, stylesheets, scripts, images, videos, fonts, and other resources over the Web — and for sending data back to Web servers.）
+
+#### 媒体（Media）
+
+格式、编解码、协议、接口，以及在 Web 文档和 Web 应用中用于嵌入和流式传输视频、音频和图片内容的技术。（Formats, codecs, protocols, APIs, and techniques for embedding and streaming video, audio, image content in Web documents and apps.）
+
+#### SVG（SVG）
+
+可缩放矢量图形用于创建能平滑地缩放至任意尺寸的图片。（Scalable Vector Graphics lets you create images that scale smoothly to any size.）
+
+#### MathML（MathML）
+
+MathML 用于在 Web 上显示复杂的数学符号。（MathML lets you display complex mathematical notation on the Web.）
+
+#### Web 组件（Web Components）
+
+Web 组件是在 Web 应用中定义和复用的自定义元素。（Web Components are custom elements that you can define and reuse in your Web apps.）
