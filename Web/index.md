@@ -1,3 +1,8 @@
+---
+layout: layout.vto
+title: 面向开发者的 Web 技术（Web technology for developers）
+---
+
 ## 面向开发者的 Web 技术（Web technology for developers）
 
 开放的 Web 为开发者呈现了不可思议的机会。想要完全利用这些技术，你需要了解如何使用这些技术。在后面的内容中你会找到 Web 技术文档的链接。（The open Web presents incredible opportunities for developers. To take full advantage of these technologies, you need to know how to use them. Below you'll find links to our Web technology documentation.）
