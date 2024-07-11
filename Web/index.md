@@ -62,7 +62,7 @@ HTTP 是基础互联网协议，用来在 Web 上获取文档、样式表、脚�
 
 可缩放矢量图形用于创建能平滑地缩放至任意尺寸的图片。（Scalable Vector Graphics lets you create images that scale smoothly to any size.）
 
-#### MathML（MathML）
+#### [MathML（MathML）](./MathML/)
 
 MathML 用于在 Web 上显示复杂的数学符号。（MathML lets you display complex mathematical notation on the Web.）
 
