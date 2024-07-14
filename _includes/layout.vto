@@ -2,13 +2,13 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>{{ title }}</title>
+  <title>{{ title || "这只是个标题" }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body>
   {{ content }}
   <footer>
-    {{ author }}创建了该文档，创建时间为{{createdAt}}，上次修改时间为{{modifiedAt}}。给作者<a href="mailto:{{email}}">发送邮件</a>。
+    {{ author || "无名氏" }}创建了该文档，创建时间为{{ createdAt || "N/A" }}，上次修改时间为{{ modifiedAt || "N/A" }}。给作者<a href="mailto:{{ email || "someone@example.com" }}">发送邮件</a>。
   </footer>
 </body>
 </html>
