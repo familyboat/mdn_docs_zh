@@ -7,5 +7,8 @@
 </head>
 <body>
   {{ content }}
+  <footer>
+    {{ author }}创建了该文档，创建时间为{{createdAt}}，上次修改时间为{{modifiedAt}}。给作者<a href="mailto:{{email}}">发送邮件</a>。
+  </footer>
 </body>
 </html>

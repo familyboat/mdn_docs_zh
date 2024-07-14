@@ -1,6 +1,10 @@
 ---
 layout: layout.vto
 title: 面向开发者的 Web 技术（Web technology for developers）
+createdAt: 2024/07/14(GMT+8)
+modifiedAt: 2024/07/14(GMT+8)
+author: familyboat
+email: familyboat@163.com
 ---
 
 ## 面向开发者的 Web 技术（Web technology for developers）
