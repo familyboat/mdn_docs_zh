@@ -4,21 +4,20 @@ title: 开发者指南
 author: familyboat
 reviewer: xxx
 createdAt: 2024/07/14(GMT+8)
-modifiedAt: 2024/08/13(GMT+8)
+modifiedAt: 2024/08/16(GMT+8)
 source: https://github.com/mdn/content/blob/58ad1df59f2ffb9ecab4e27fe1bdf1eb5a55f89b/files/en-us/web/guide/index.md
 ---
 
-## 开发者指南
+# 开发者指南
 
-MDN docs 中有若干指南，这些文章旨在添加额外的使用案例，或者教你如何使用 API 或特性。
-There are a number of guides within MDN docs. These articles aim to add additional usage examples, or teach you how to use an API or feature. This page links to some of the most popular material.
+MDN docs 中有许多文章，这些文章旨在添加额外的使用案例，或者教你如何使用 API 或特性。该页提供一些最受欢迎的文章的链接。
 
 ## HTML
 
 - [Structuring the web with HTML](/en-US/docs/Learn/HTML)
-  - : The HTML learning area offers tutorials to help you learn HTML from the ground up.
+  - : HTML Learning Area 中的教程带你从零学习 HTML 的知识。
 - [HTML basics](/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-  - : This article will give you a basic understanding of HTML. After following this guide, you can further explore the material in the HTML Learning Area.
+  - : 该文章教你理解 HTML 的基础内容。学完之后，你能继续学习 HTML Learning Area 中的其他文章。
 
 ## CSS
 
