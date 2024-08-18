@@ -22,11 +22,11 @@ MDN docs 中有许多文章，这些文章旨在添加额外的使用案例，�
 ## CSS
 
 - [Learn to style HTML using CSS](/en-US/docs/Learn/CSS)
-  - : Our complete CSS tutorial, taking you from first steps through styling text, creating layouts, and more.
+  - : 涵盖 HTML 设计内容的教程——从文字设计开始学习，接着学习创建布局，等等。
 - [CSS Layout Guides](/en-US/docs/Web/Guide/CSS/CSS_Layout)
-  - : There are a large number of guides to CSS Layout across MDN, this page collects them all together.
+  - : MDN 中涵盖了许多＇CSS 布局＇的教程，这些教程收集在此页。
 - [Using CSS animations](/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
-  - : CSS animations make it possible to animate transitions from one CSS style configuration to another. This guide will help you get started with the animation properties.
+  - : ＇CSS 动画＇可以实现从一种 CSS 样式配置到另一种 CSS 样式配置的动画过渡。该指南带你从动画属性开始学习。
 
 ## JavaScript
 
