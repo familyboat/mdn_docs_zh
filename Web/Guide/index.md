@@ -4,7 +4,7 @@ title: 开发者指南
 author: familyboat
 reviewer: xxx
 createdAt: 2024/07/14(GMT+8)
-modifiedAt: 2024/08/16(GMT+8)
+modifiedAt: 2024/08/18(GMT+8)
 source: https://github.com/mdn/content/blob/58ad1df59f2ffb9ecab4e27fe1bdf1eb5a55f89b/files/en-us/web/guide/index.md
 ---
 
@@ -31,7 +31,7 @@ MDN docs 中有许多文章，这些文章旨在添加额外的使用案例，�
 ## JavaScript
 
 - [JavaScript learning area](/en-US/docs/Learn/JavaScript)
-  - : Whether you are a complete beginner, or hoping to refresh your skills, this is the place to start.
+  - : 无论你是几乎什么都不会的初学者，还是希望重温知识，可以从这里开始。
 
 ## Media
 
